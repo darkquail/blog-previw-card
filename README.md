@@ -3,7 +3,11 @@
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of Contents
-
+- [Overview](#overview)
+    - [The challange](#the-challange)
+    - [Screenshoots](#screenshots)
+    - [Links](#links)
+- [My Process](#my-process)
 ## Overview
 
 ### The challenge
